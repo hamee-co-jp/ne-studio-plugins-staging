@@ -1,0 +1,20 @@
+{
+  "name": "ne-studio-plugins-staging",
+  "interface": {
+    "displayName": "NE STUDIO (staging)"
+  },
+  "plugins": [
+    {
+      "name": "ne-studio-staging",
+      "source": {
+        "source": "local",
+        "path": "./plugins/agent-plugins/ne-studio-staging"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

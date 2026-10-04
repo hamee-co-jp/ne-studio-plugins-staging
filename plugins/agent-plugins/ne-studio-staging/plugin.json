@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ne-studio-staging",
+  "version": "0.1.4",
+  "description": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。"
+}

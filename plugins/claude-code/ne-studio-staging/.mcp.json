@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ne-studio": {
+      "type": "http",
+      "url": "https://mcp-gateway-c7klqiblua-an.a.run.app/mcp"
+    }
+  }
+}

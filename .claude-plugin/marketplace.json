@@ -1,0 +1,16 @@
+{
+  "name": "ne-studio-plugins-staging",
+  "owner": {
+    "name": "NE STUDIO"
+  },
+  "metadata": {
+    "description": "NE STUDIO (staging) を AI から使うためのプラグイン。"
+  },
+  "plugins": [
+    {
+      "name": "ne-studio-staging",
+      "source": "./plugins/claude-code/ne-studio-staging",
+      "description": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。"
+    }
+  ]
+}
