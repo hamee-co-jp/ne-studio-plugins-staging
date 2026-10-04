@@ -1,7 +1,7 @@
 {
   "name": "ne-studio-staging",
   "displayName": "NE STUDIO (staging)",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。",
   "author": {
     "name": "NE STUDIO"
