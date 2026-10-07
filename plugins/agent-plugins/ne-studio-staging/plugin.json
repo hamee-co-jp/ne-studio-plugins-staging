@@ -1,6 +1,20 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ne-studio-staging",
-  "version": "0.1.6",
-  "description": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。"
+  "version": "0.1.7",
+  "description": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "NE STUDIO (staging)",
+        "shortDescription": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。",
+        "longDescription": "NE STUDIO の MCP サーバー (staging) への接続設定と、ネクストエンジンと NE STUDIO を AI から使うための手順 (skills) をまとめたプラグイン。",
+        "developerName": "NE STUDIO",
+        "category": "Productivity",
+        "brandColor": "#0099FF",
+        "composerIcon": "./assets/ne-studio.svg",
+        "logo": "./assets/ne-studio.svg"
+      }
+    }
+  }
 }
