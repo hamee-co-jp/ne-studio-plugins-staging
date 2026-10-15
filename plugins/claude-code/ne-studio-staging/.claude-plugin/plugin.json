@@ -1,7 +1,7 @@
 {
   "name": "ne-studio-staging",
   "displayName": "NE STUDIO（検証用）",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "ネクストエンジンと NE STUDIO を、AI との会話から使えるようにします。受注の確認や書き換え、業務アプリ作りを AI に頼めます。（検証用の環境につながります）",
   "author": {
     "name": "NE STUDIO"
