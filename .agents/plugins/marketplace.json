@@ -1,7 +1,7 @@
 {
   "name": "ne-studio-plugins-staging",
   "interface": {
-    "displayName": "NE STUDIO (staging)"
+    "displayName": "NE STUDIO（検証用）"
   },
   "plugins": [
     {
