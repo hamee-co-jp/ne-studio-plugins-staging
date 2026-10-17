@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ne-studio-staging",
-  "version": "0.1.18",
+  "version": "0.1.21",
   "description": "ネクストエンジンと NE STUDIO を、AI との会話から使えるようにします。受注の確認や書き換え、業務アプリ作りを AI に頼めます。（検証用の環境につながります）",
   "extensions": {
     "com.openai": {
